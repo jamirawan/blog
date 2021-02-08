@@ -1,2 +1,2 @@
-# blog
-Irawan's blog
+# Blog
+Irawan's blog about digital stuff
