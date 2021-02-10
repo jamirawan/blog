@@ -7,4 +7,4 @@ permalink: /about/
 Yes, this is about Irawan's page
 
 
-[jekyll-organization]: https://github.com/jekyll
+
